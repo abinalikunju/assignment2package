@@ -1,0 +1,19 @@
+---
+title: "InfluenceMeasures"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{InfluenceMeasures}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+devtools::install_github("abinalikunju/assignment2package")
+```
